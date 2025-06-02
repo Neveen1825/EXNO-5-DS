@@ -19,9 +19,9 @@ STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
 
-DEVELOPED BY :KALIKIRI VAISHNAVI
+DEVELOPED BY : Naveen Kanthan L
 
-REG NO:212223040081
+REG NO:212223230138
 
 ```
  import pandas as pd
